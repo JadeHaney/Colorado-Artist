@@ -2,7 +2,6 @@ header {
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: #003148;
     font-weight: lighter;
-    font-stretch: narrower;
     background-color: #ede3b2;
     padding: 18px;
     text-align: center;  
@@ -10,7 +9,7 @@ header {
 
 a:link {color: #cc0000}
 a:hover {color:rgb(25, 150, 143)}
-a:visited {color: ##cc0000}
+a:visited {color: #cc0000}
 a:active {color: rgb(25, 150, 143)}
 
 nav {
@@ -120,7 +119,7 @@ footer {
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: #003148;
     font-weight: lighter;
-    font-weight: 100px;
+    font-weight: 100;
     background-color: #ede3b2;
     padding: 18px;
     text-align: center;
